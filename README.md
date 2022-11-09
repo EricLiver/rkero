@@ -4,7 +4,7 @@
 |
 [起始页](https://arcxingye.github.io/rr/a.html)
 |
-[目标页](https://xingye.me/game)
+[目标页](https://seyana.tk)
 |
 [二维码](https://arcxingye.github.io/rr/qrcode)
 
